@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/mr__j_u_n_e_d" target="blank"><img src="https://img.shields.io/twitter/follow/mr__j_u_n_e_d?logo=twitter&style=for-the-badge" alt="mr__j_u_n_e_d" /></a> </p>
 
-- 🔭 I’m currently Studing Computer Scienc (B.tech 4th Year) **A.K.T.U**
+- 🔭 I’m currently Studing Computer Scienc (B.tech 4th Year) In A.K.T.U
 
 - 🌱 I’m currently learning deeply **ReactJS ,Redux**
 
