@@ -26,13 +26,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://codepen.io/@junedahmad313](https://codepen.io/JunedAhmad313)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@junedahmad313" height="30" width="40" /></a>
 <a href="https://twitter.com/mr__j_u_n_e_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mr__j_u_n_e_d" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/juned-ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juned-ahmad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:21848172" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:21848172" height="30" width="40" /></a>
 <a href="https://fb.com/juned.khanjk786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="juned.khanjk786" height="30" width="40" /></a>
 <a href="https://instagram.com/mr__j_u_n_e_d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr__j_u_n_e_d" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@smartcoder0101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@smartcoder0101" height="30" width="40" /></a>
+<a href="[https://www.youtube.com/c/@smartcoder0101](https://youtube.com/@SmartCoder0101)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@smartcoder0101" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/junedahmad313" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="junedahmad313" height="30" width="40" /></a>
 </p>
 
