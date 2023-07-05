@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **junedahmad9296@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Sjav1rBRR6Chof7LQIx83sF6P8813w1w/view?usp=sharing](https://drive.google.com/file/d/1Sjav1rBRR6Chof7LQIx83sF6P8813w1w/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1Lw_jldr-_cuD48irbGO-adguwogVNqFB/view?usp=sharing
 
 - ⚡ Fun fact **I think I m Romantic😜**
 
